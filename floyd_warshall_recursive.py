@@ -1,4 +1,4 @@
-""" Recursive version of Floyd-Warshall Algorithm """
+""" Recursive version of Floyd Warshall Algorithm """
 
 # Define infinity as the large enough value. This value will be
 # used for vertices not connected to each other
