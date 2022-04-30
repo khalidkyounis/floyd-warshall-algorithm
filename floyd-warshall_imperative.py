@@ -91,12 +91,4 @@ graph = [[0, 5, INF, 10],
 		]
 # Print the solution
 floydWarshall(graph)
-
-# Using timeit module to measure the execution time
-# therefore test the performance of the recursive code
-if __name__ == "__main__":
-    import timeit
-
-    print("================\n")
-    print("Testing recursive performance using timeit:")
-    print(timeit.timeit())
+# This code is contributed by Mythri J L
