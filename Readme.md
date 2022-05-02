@@ -6,6 +6,8 @@
 - [Background](#background)
 - [Install](#install)
 - [Usage](#usage)
+- [Unit Test](#Unit Test)
+- [cProfile (Pefromance Test)](#cProfile (Pefromance Test))
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -24,10 +26,11 @@ To install the required packages to run the application, write below command in 
 
     pip install -r requirements.txt
 
+# Usage
+
 Type the below command to execute the program:
 
-    python floyd-warshall-recursion.py]
-
+    python test_recursive.py
 
 # Unit Test
 
