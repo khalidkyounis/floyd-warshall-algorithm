@@ -35,7 +35,7 @@ To install the required packages to run the application, write below command in 
 
 ## Usage
 
-Type the below command to execute the program:
+Type the following command to execute the program:
 
     python test_recursive.py
 
