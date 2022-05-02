@@ -17,6 +17,7 @@
 This application is to find the shortest distances between vertices. The function is written in recursive method as part of solving Mid-Module Assignment of the Software Development in Practice module at the University of Liverpool.
 
 <a name="install"/>
+
 ## Install
 
 To clone the project, using following link of porject directory to the IDE:
