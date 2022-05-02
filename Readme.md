@@ -12,6 +12,7 @@
 - [License](#license)
 
 <a name="background"/>
+
 ## Background
 
 This application is to find the shortest distances between vertices. The function is written in recursive method as part of solving Mid-Module Assignment of the Software Development in Practice module at the University of Liverpool.
@@ -30,6 +31,7 @@ To install the required packages to run the application, write below command in 
     pip install -r requirements.txt
 
 <a name="usage"/>
+
 ## Usage
 
 Type the below command to execute the program:
@@ -37,6 +39,7 @@ Type the below command to execute the program:
     python test_recursive.py
 
 <a name="unittest"/>
+
 ## Unit Test
 
 To perform Unit Test for the data samples in test_samples.py file, type the following command in the IDE terminal or Run the code directly:
@@ -44,6 +47,7 @@ To perform Unit Test for the data samples in test_samples.py file, type the foll
     python -m unittest tests/unit_test_recursive.py
 
 <a name="cprofile"/>
+
 ## cProfile (Pefromance Test)
 
 To test the performance of recursive and imperative version of Floyd-Warshall functions, type the following command in the IDE terminal or Run the code directly:
@@ -51,11 +55,13 @@ To test the performance of recursive and imperative version of Floyd-Warshall fu
     python -m cProfile tests/performance_test_recursive.py
 
 <a name="contributing"/>
+
 ## Contributing
 
 Any contribution to improve the application is possible.
 
 <a name="license"/>
+
 ## License
 
 [MIT](LICENSE) © Khalid Younis
