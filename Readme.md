@@ -6,8 +6,8 @@
 - [Background](#background)
 - [Install](#install)
 - [Usage](#usage)
-- [Unit Test](#Unit Test)
-- [cProfile (Pefromance Test)](#cProfile (Pefromance Test))
+- [Unit Test](#UnitTest)
+- [cProfile (Pefromance Test)](#cProfile)
 - [Contributing](#contributing)
 - [License](#license)
 
