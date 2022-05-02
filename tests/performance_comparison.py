@@ -1,8 +1,14 @@
-"""Compare the performance of recursive versus imperative using using
+"""Compare the performance of recursive versus imperative using
 Brute Force methodology """
 
-# Import time package
+# Import built-in packages
+import sys
 import time
+
+# This is used because the function file is not in the path where recursive
+# and imperative functions are so when searching from tests folder it looks
+# only for files in same directory as it
+sys.path.append('.')
 
 # Import functions from functions folder
 import functions.floyd_warshall_imperative

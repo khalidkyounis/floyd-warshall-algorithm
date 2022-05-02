@@ -9,6 +9,7 @@
 - [Performance Test](#performance_test)
    - [Unit Test](#unittest)
    - [cProfile](#cprofile)
+   - [Performance Comparison](#performance_comparison)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -58,6 +59,15 @@ To perform Unit Test for the data samples in test_samples.py file, type the foll
 To test the performance of recursive and imperative version of Floyd-Warshall functions, type the following command in the IDE terminal or run the code directly:
 
     python -m cProfile tests/performance_test_recursive.py
+    
+    
+<a name="performance_comparison"/>
+
+### Performance Comparison
+
+To compare the execution time of recursion and imperative to compare the performance, type the following command in the IDE terminal or run the code directly:
+
+    python tests/performance_comparison.py
 
 <a name="contributing"/>
 
