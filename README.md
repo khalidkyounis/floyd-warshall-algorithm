@@ -6,8 +6,9 @@
 - [Background](#background)
 - [Install](#install)
 - [Usage](#usage)
-- [Unit Test](#unittest)
-- [cProfile (Pefromance Test)](#cprofile)
+- [Performance Test](#performance_test)
+   - [Unit Test](#unittest)
+   - [cProfile](#cprofile)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -38,9 +39,13 @@ Type the below command to execute the program:
 
     python test_recursive.py
 
+<a name="performance_test"/>
+
+## Performance Test
+
 <a name="unittest"/>
 
-## Unit Test
+### Unit Test
 
 To perform Unit Test for the data samples in test_samples.py file, type the following command in the IDE terminal or run the code directly:
 
@@ -48,7 +53,7 @@ To perform Unit Test for the data samples in test_samples.py file, type the foll
 
 <a name="cprofile"/>
 
-## cProfile (Pefromance Test)
+### cProfile (Pefromance Test)
 
 To test the performance of recursive and imperative version of Floyd-Warshall functions, type the following command in the IDE terminal or run the code directly:
 
