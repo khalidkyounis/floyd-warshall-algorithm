@@ -10,6 +10,7 @@ from functions.floyd_warshall_imperative import floyd_warshall
 from tests.test_samples import (sample_1, sample_2, sample_3, result_1,
                                 result_2, result_3)
 
+
 # Unit Tests
 class TestFloydWarshall(unittest.TestCase):
     """TestFloydWarshall class inherits the unittest module"""
