@@ -7,7 +7,7 @@
 - [Install](#install)
 - [Usage](#usage)
 - [Unit Test](#Unit_Test)
-- [cProfile (Pefromance Test)](#cProfile)
+- [cProfile](#cProfile)
 - [Contributing](#contributing)
 - [License](#license)
 
